@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fire-chat-8ef72": {
+      "hosting": {
+        "firechat": [
+          "fire-chat-8ef72"
+        ]
+      }
+    }
+  }
+}
